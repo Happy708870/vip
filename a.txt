@@ -15,6 +15,7 @@ Trail Usar list
 Trail x 
 
 1→0→2→4→7→u→0→_→a→2→4→7
+1→0→2→9→3→u→0→_→a→2→9→3
 
 Jan 14 2023 (30 days)
 
